@@ -1,0 +1,11 @@
+/* Write your code here */
+.review-username {
+  font-weight: bold;
+  color: white;
+}
+.review-company {
+  font-weight: bold;
+}
+.li-container {
+  list-style-type: none;
+}
